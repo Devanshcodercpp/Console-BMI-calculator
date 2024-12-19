@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Console BMI calculator", "..\Console BMI calculator\Console BMI calculator.vcxproj", "{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Debug|x64.ActiveCfg = Debug|x64
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Debug|x64.Build.0 = Debug|x64
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Debug|x86.ActiveCfg = Debug|Win32
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Debug|x86.Build.0 = Debug|Win32
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Release|x64.ActiveCfg = Release|x64
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Release|x64.Build.0 = Release|x64
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Release|x86.ActiveCfg = Release|Win32
+		{A07CEAB6-0B17-4053-A541-B77F2E08FBCB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFE38FC-15A1-4883-944A-3194BE551701}
+	EndGlobalSection
+EndGlobal
